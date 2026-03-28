@@ -92,8 +92,4 @@ The project includes complete steps from data preprocessing and feature engineer
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/ShubhamGaonkar02/house-price-prediction-ml.git
